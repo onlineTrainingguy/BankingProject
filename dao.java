@@ -1,0 +1,1 @@
+This is a very funny file because it is not java but looks like java
